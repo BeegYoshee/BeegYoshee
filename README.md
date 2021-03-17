@@ -1,7 +1,5 @@
-<a href="https://github.com/BeegYoshee/BeegYoshee">
-<img align="center" src="https://imgur.com/tpgN1gI" />
-</a>
 
+![alt text](https://imgur.com/tpgN1gI)
 
 
 
