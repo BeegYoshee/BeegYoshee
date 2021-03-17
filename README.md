@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/BeegYoshee/BeegYoshee/main/beeg.png)
 
 https://raw.githubusercontent.com/BeegYoshee/BeegYoshee/main/beeg.png
 ![alt tag](http://url/to/img.png)
